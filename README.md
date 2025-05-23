@@ -50,10 +50,13 @@ cd LLM_Chat_UI
 **Set up environment variables:**
 .env.example .env.local
 
-**Install dependencies:**
+## Install dependencies:
+
+```bash
 npm install
 npm run build
 npm run start
+```
 
 
 
