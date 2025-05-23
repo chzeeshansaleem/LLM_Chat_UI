@@ -1,0 +1,7 @@
+{
+    "watch": ["."],
+    "ext": "ts,tsx,js,jsx,json",
+    "ignore": ["node_modules", ".next", "public"],
+    "exec": "next dev"
+  }
+  
